@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/ag-grid', function () {
+    return view('ag');
+});
+
+Route::get('/dev-extrem', function () {
+    return view('dev-extreme');
+});

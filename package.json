@@ -20,6 +20,9 @@
         "vue": "^2.5.7"
     },
     "dependencies": {
+        "@devexpress/dx-vue-core": "^1.7.2",
+        "@devexpress/dx-vue-grid": "^1.7.2",
+        "@devexpress/dx-vue-grid-bootstrap4": "^1.7.2",
         "ag-grid-community": "^19.0.0",
         "ag-grid-vue": "^19.0.0"
     }
