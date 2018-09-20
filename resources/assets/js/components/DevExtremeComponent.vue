@@ -43,9 +43,12 @@
         DxTableSelection,
     } from '@devexpress/dx-vue-grid-bootstrap4';
 
-    // import { generateRows } from '../../../demo-data/generator';
 
     export default {
+        props: {
+
+        },
+
         data() {
             return {
                 columns: [

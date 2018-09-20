@@ -51426,9 +51426,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 
 
-// import { generateRows } from '../../../demo-data/generator';
-
 /* harmony default export */ __webpack_exports__["default"] = ({
+    props: {},
+
     data: function data() {
         return {
             columns: [{ name: 'name', title: 'Name' }, { name: 'sex', title: 'Sex' }, { name: 'city', title: 'City' }, { name: 'car', title: 'Car' }],
